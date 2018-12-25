@@ -1,0 +1,9 @@
+# Unreal Gerated Files
+
+
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+*_BuildData.uasset
